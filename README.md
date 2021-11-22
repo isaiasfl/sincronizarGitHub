@@ -3,8 +3,9 @@
 
 ### Pasos: 🛠️
 1.	Asegurarnos de tener instalado git en nuestro ordenador. Si no lo tenemos la url de descarga sería: [git](https://git-scm.com/)
-2.	Abrimos GitBash (o consola de Git).
-3.	Para configurar Git lanzamos desde la consola los comandos:
+<img width="560" alt="img1" src="https://user-images.githubusercontent.com/9333838/142816656-f4b021fc-3774-4e07-8e6d-a3f7c933c869.png">
+3.	Abrimos GitBash (o consola de Git).
+4.	Para configurar Git lanzamos desde la consola los comandos:
 ```
 git config --global user.name "Tu nombre aquí"
 git config --global user.email "tu_email_aquí@example.com"
