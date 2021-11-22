@@ -51,11 +51,17 @@ Puede que nos vuelva a pedir que nos identifiquemos
 <p align="center">
   <img width="343" alt="img7" src="https://user-images.githubusercontent.com/9333838/142823216-cb7e72de-7b59-49a9-9316-0a43ee2de8f7.png">
 </p>
-### Nota: Si diese algún error, estando en el terminal de visual code, seleccionamos consola bash y volvemos a introducir nuestros datos:
+
+### Nota: _Si diese algún error, estando en el terminal de visual code, seleccionamos consola bash y volvemos a introducir nuestros datos:_ ⌨️
+
 ```
 git config --global user.name "Tu nombre aquí"
 git config --global user.email "tu_email_aquí@example.com"
 ```
+
 Automáticamente ya estarán los cambios en nuestro repositorio de GITHUB
 
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
