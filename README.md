@@ -1,10 +1,10 @@
 # **Sincronizar GitHub con Visual Code**_
 ## Recorrido básico para conectar GitHub con Visual Studio Code
 
-###Pasos: 🛠️
-1.	Asegurarnos de tener instalado git en nuestro ordenador. Si no lo tenemos la url de descarga sería: https://git-scm.com/
-2.	Abrimos GitBash (o consola de Git).
-3.	Para configurar Git lanzamos desde la consola los comandos:
+### Pasos: 🛠️
+* 1.	Asegurarnos de tener instalado git en nuestro ordenador. Si no lo tenemos la url de descarga sería: https://git-scm.com/
+* 2.	Abrimos GitBash (o consola de Git).
+* 3.	Para configurar Git lanzamos desde la consola los comandos:
 ```
 git config --global user.name "Tu nombre aquí"
 git config --global user.email "tu_email_aquí@example.com"
