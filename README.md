@@ -33,9 +33,9 @@ Esto lo que hace es crear un archivo llamado .gitconfig con nuestros datos. Podr
   <img width="430" alt="img3" src="https://user-images.githubusercontent.com/9333838/142823146-2667d527-50cf-43dc-9b2a-90575e1e1918.png">
 </p>
 9. Seleccionamos clonar desde GitHub. Nos pedirá permisos de Github para permitir su acceso desde visual Code. Permitimos permisos
-
-<img width="326" alt="img4" src="https://user-images.githubusercontent.com/9333838/142823174-850bbc81-2129-4858-9aa8-68ddee03cec2.png">
-
+<p align="center">
+  <img width="326" alt="img4" src="https://user-images.githubusercontent.com/9333838/142823174-850bbc81-2129-4858-9aa8-68ddee03cec2.png">
+</p>
 En algunas ocasiones nos da un Tokens para que pulsando en Iniciar Sesión de GitHub en visual code (barra inferior) pegamos el tokens dado por GitHub.
 <p align="center">
   <img width="414" alt="img5" src="https://user-images.githubusercontent.com/9333838/142823184-4a220bee-fb22-4263-90a2-c660f08da171.png">
