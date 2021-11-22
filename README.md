@@ -2,9 +2,9 @@
 ## Recorrido básico para conectar GitHub con Visual Studio Code
 
 ### Pasos: 🛠️
-* 1.	Asegurarnos de tener instalado git en nuestro ordenador. Si no lo tenemos la url de descarga sería: https://git-scm.com/
-* 2.	Abrimos GitBash (o consola de Git).
-* 3.	Para configurar Git lanzamos desde la consola los comandos:
+1.	Asegurarnos de tener instalado git en nuestro ordenador. Si no lo tenemos la url de descarga sería: [git](https://git-scm.com/)
+2.	Abrimos GitBash (o consola de Git).
+3.	Para configurar Git lanzamos desde la consola los comandos:
 ```
 git config --global user.name "Tu nombre aquí"
 git config --global user.email "tu_email_aquí@example.com"
@@ -16,14 +16,15 @@ git config -–global –-list
  
 
 Esto lo que hace es crear un archivo llamado .gitconfig con nuestros datos. Podremos ver los datos almacenados de nuestras credenciales.
+
 4.	Ahora nos vamos a GitHub y creamos un nuevo repositorio:
 5.	Seguidamente copiamos la url de nuestro repositorio:
 
 6.	Abrimos visual y cargamos una carpeta donde queramos clonar nuestro repositorio remoto.
 
-7.	Seguidamente vamos a Ver  Paleta de comandos o  pulsamos CTRL+Mayúsc+P (en Windows).
+7.	Seguidamente vamos al menú  Ver -- Paleta de comandos o  pulsamos CTRL+Mayúsc+P (en Windows).
 
-8.	Escribimos Git Clone y escribimos la url de nuestro repositorio:
+8.	Escribimos Git Clone y añadimos la url de nuestro repositorio:
 
 
 Seleccionamos clonar desde GitHub
